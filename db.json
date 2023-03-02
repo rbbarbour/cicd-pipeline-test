@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "name": "Floy Torphy",
+      "dob": "1970-12-19",
+      "email": "Floy18@yahoo.com",
+      "username": "Floy96",
+      "password": "_GlbSMau3Oawop3",
+      "phone": "302-445-9477 x4249",
+      "streetaddress": "07772 Morton Stream",
+      "citystatezip": "Kristofermouth, MO 54256",
+      "latitude": "52.2508",
+      "longitude": "65.2708",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/697.jpg"
+    },
+    {
+      "name": "Madelyn Fisher",
+      "dob": "1991-6-15",
+      "email": "Madelyn83@yahoo.com",
+      "username": "Madelyn.Fisher",
+      "password": "Yt0Zl_FQDrAXF8Y",
+      "phone": "(506) 872-8356",
+      "streetaddress": "330 Lupe Villages",
+      "citystatezip": "Kertzmannside, AL 94281",
+      "latitude": "45.7182",
+      "longitude": "-7.8828",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1247.jpg"
+    },
+    {
+      "name": "Royce Kohler",
+      "dob": "1973-1-17",
+      "email": "Royce.Kohler@hotmail.com",
+      "username": "Royce9",
+      "password": "QfK3lCLRE80nImr",
+      "phone": "677-441-9800 x6376",
+      "streetaddress": "93547 Jaycee Skyway",
+      "citystatezip": "Kozeybury, ND 78222",
+      "latitude": "-58.0912",
+      "longitude": "114.9419",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/565.jpg"
+    },
+    {
+      "name": "Mireille Wolff",
+      "dob": "1968-8-11",
+      "email": "Mireille55@hotmail.com",
+      "username": "Mireille_Wolff",
+      "password": "vKgY4LJ1GondGmK",
+      "phone": "743-887-6493 x664",
+      "streetaddress": "695 Alexys Lakes",
+      "citystatezip": "Port Lydia, MO 53906-2444",
+      "latitude": "8.2920",
+      "longitude": "142.2244",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/67.jpg"
+    },
+    {
+      "name": "Alysson Bauch",
+      "dob": "1987-2-15",
+      "email": "Alysson_Bauch57@gmail.com",
+      "username": "Alysson_Bauch",
+      "password": "a5DVMKcuMAzYh37",
+      "phone": "1-881-438-4239 x6916",
+      "streetaddress": "995 Haag Locks",
+      "citystatezip": "New Jaceytown, WI 76433-7391",
+      "latitude": "89.8426",
+      "longitude": "-149.0757",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/511.jpg"
+    }
+  ]
+}
